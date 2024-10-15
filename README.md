@@ -27,6 +27,7 @@ Run the Application:
 
 Copy code
 expo start
+
 **📖 How to Use 🧑‍💻**
 
 Open the app on your device.
