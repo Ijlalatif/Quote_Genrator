@@ -9,19 +9,16 @@ Copy & Share: Easily copy quotes to your clipboard or share them directly to you
 User-Friendly Interface: A clean and intuitive design makes navigating the app a breeze! 🎨
 📦 Installation ⚙️
 Clone the Repository:
-bash
-Copy code
-git clone https://github.com/yourusername/random-quote-generator.git
 Navigate to the Project Directory:
-bash
+
 Copy code
 cd random-quote-generator
 Install Dependencies:
-bash
+
 Copy code
 npm install
 Run the Application:
-bash
+
 Copy code
 expo start
 📖 How to Use 🧑‍💻
