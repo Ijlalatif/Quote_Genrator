@@ -1,19 +1,20 @@
 # Quote_Genrator
-📖 Random Quote Generator ✨
+**📖 Random Quote Generator ✨**
 
 Welcome to the Random Quote Generator app! This simple yet powerful application, built with React Native and Expo, allows you to discover inspiring quotes, enjoy text-to-speech functionality, copy quotes, and share them seamlessly on your favorite social media platforms! 🌟
 
-📱 Features 🚀
-API-Powered Quote Generation: Fetch random quotes using an external API for endless inspiration! 🔄
+**📱 Features 🚀**
+**API-Powered Quote Generation**: Fetch random quotes using an external API for endless inspiration! 🔄
 
-Text-to-Speech: Listen to your favorite quotes with our built-in text-to-speech feature! 🔊
+**Text-to-Speech**: Listen to your favorite quotes with our built-in text-to-speech feature! 🔊
 
-Copy & Share: Easily copy quotes to your clipboard or share them directly to your social media accounts! 📲
+**Copy & Share**: Easily copy quotes to your clipboard or share them directly to your social media accounts! 📲
 
-User-Friendly Interface: A clean and intuitive design makes navigating the app a breeze! 🎨
+**User-Friendly Interface:** A clean and intuitive design makes navigating the app a breeze! 🎨
 
-📦 Installation ⚙️
-Clone the Repository:
+**📦 Installation ⚙️**
+**Clone the Repository:**
+
 Navigate to the Project Directory:
 
 cd random-quote-generator
@@ -26,7 +27,7 @@ Run the Application:
 
 Copy code
 expo start
-📖 How to Use 🧑‍💻
+**📖 How to Use 🧑‍💻**
 
 Open the app on your device.
 
@@ -37,7 +38,8 @@ Use the Text-to-Speech feature to listen to the quote.
 Click "Copy" to copy the quote to your clipboard.
 
 Use the Share button to post the quote on your favorite social media platforms.
-💻 Technologies Used 🛠️
+
+**💻 Technologies Used 🛠️**
 
 React Native with Expo
 
@@ -48,3 +50,8 @@ API for quote generation
 Text-to-Speech API
 
 Social Media Sharing functionality
+
+**SCREEN_SHOT**
+
+
+![12246e57-c8c9-44db-a0ed-84e7622e9236](https://github.com/user-attachments/assets/ed641054-85c3-46ae-a353-183a6a9d9f95)
