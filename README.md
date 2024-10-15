@@ -1,5 +1,6 @@
 # Quote_Genrator
 📖 Random Quote Generator ✨
+
 Welcome to the Random Quote Generator app! This simple yet powerful application, built with React Native and Expo, allows you to discover inspiring quotes, enjoy text-to-speech functionality, copy quotes, and share them seamlessly on your favorite social media platforms! 🌟
 
 📱 Features 🚀
